@@ -5,4 +5,4 @@ Docker setup setup for running a multi-container application (Apache 2.4, MariaD
 
 2. All php code that you wish to run needs to be in ./web/src folder
 
-2. run `docker compose up --build` to start 
+2. Run `docker compose up --build` to start 
